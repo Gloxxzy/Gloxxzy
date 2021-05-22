@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on getting a big cock 
+- 🔭 I’m currently working on getting more smart.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gloxxzy&show_icons=true&theme=dracula)
 
